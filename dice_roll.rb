@@ -3,5 +3,6 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-roll = 
+roll = ("a", "b", "c", "d")
+
 end
